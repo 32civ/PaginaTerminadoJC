@@ -1,0 +1,380 @@
+@import url('http://fonts.cdnfonts.com/css/minecraft-4');
+
+body {
+    background-repeat: no-repeat;
+    background-color: #333;
+}
+
+/**/
+
+nav {
+    font-family: 'Minecraft', sans-serif;
+	font-size: 25px;
+    margin-top: 500px;
+    width: 390px;
+}
+
+nav ul {
+    background-color: #333;
+    border-radius: 3px 3px 3px 3px;
+    padding: 12px;
+}
+
+nav li:hover {
+    background-color: rgb(100, 89, 89);
+}
+
+/**/
+
+aside {
+    text-align: center;
+    margin: 10px;
+    position:sticky;
+    top: 25px;
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+    float: left;
+    width: 19vw;
+    height: 20vw;
+}
+
+aside a{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    display: block;
+    margin: 3vw;
+    color: black;
+}
+
+aside a:hover {
+    color: #257e25;
+}
+/**/   
+
+
+.inicio {
+    width: 60vw;
+    height: 100vw;
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.TukiMinecraft {
+    width: 60vw;
+}
+
+.exclamacion {
+    width: 2.5vw;
+}
+
+.bienvenidaInicio {
+    width: 33vw;
+    display: inline-block;
+}
+
+.bienvenida {
+    background-color: rgba(153, 231, 250, 0.514);
+    border-radius: 8px 8px 8px 8px;
+    margin: 10px;
+    margin-left: 30px;
+    width: 40vw;
+}
+
+/* Cards Slides */
+
+.row-equal  div[class*='col-'] {
+    display: flex;
+    flex: 1 0 auto;
+}
+
+.carousel-inner .row-equal.active, 
+.carousel-inner .row-equal.next, 
+.carousel-inner .row-equal.prev {
+    display: flex;
+}
+
+.carousel-inner .row-equal.active.left, 
+.carousel-inner .row-equal.active.right {
+    opacity: 0.5;
+    display: flex;
+}
+
+
+.card-img-top-250 {
+    height: 10vw;
+    overflow:hidden;
+}
+
+.card-text{
+    padding:  10px;
+}
+
+
+.card-header{color:dodgerblue}
+
+#postsCarousel {
+    background-color: rgb(201, 191, 191);
+    padding: 2vw;
+    height: 38vw;
+}
+
+.card {
+    width: 70vw;
+    height: 28vw;
+}
+/*  */
+
+.descargarMinecraft h1{
+    font-family: 'Minecraft', sans-serif;
+}
+
+ .instruccionesDescargarM {
+    margin-left: 3vw;
+    width: 50vw;
+}
+
+/*  */
+
+.launchersLados a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.launchersLados {
+    background-color: #315531;
+    height: 40px;
+    width: 140px;
+}
+
+.launchersLados:hover {
+    background-color:#257e25;
+}
+
+.tLauncher a{
+    text-decoration: none;
+    color: aliceblue;
+}
+
+.tLauncher {
+    background-color: #333;
+    height: 60px;
+    width: 140px;
+}
+
+.tLauncher:hover {
+    background-color: #257e25;
+}
+
+
+
+
+/* MODS */
+
+/* Inicio Mods  */
+
+.asideM {
+    
+    text-align: center;
+    margin: 10px;
+    position:sticky;
+    top: 25px;
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+    float: left;
+    width: 19vw;
+    height: 20vw;
+}
+
+.asideM a{
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    display: block;
+    margin: 3vw;
+    color: black;
+}
+
+.asideM a:hover {
+    color: #257e25;
+}
+
+.inicioMods {
+    width: 60vw;
+    height: 150vw;
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.MMods{
+    margin: 2vw;
+    height: 30vw;
+    width: 55vw;
+}
+
+.intro h2 {
+    font-family: 'Minecraft', sans-serif;
+    margin: 10px;
+}
+
+.intro {
+    margin: 1vw;
+}
+
+.intro p {
+    margin: 1vw;
+    display: inline-block;
+    width: 34vw;
+}
+
+.MD {
+    margin-left: 1vw;
+    width: 20vw;
+}
+
+/*  */
+
+.recomendadoM {
+    margin: 4vw;
+}
+
+.recomendadoM h2 {
+    font-family: 'Minecraft', sans-serif;
+}
+
+.recomendadoM a {
+    display: block;
+    color: black;
+}
+
+.recomendadoM a:hover {
+    color: #257e25;
+}
+
+/*  */
+
+
+.paginasMods h2{
+    font-family: 'Minecraft', sans-serif;
+    text-align: center;
+}
+
+.paginasMods a{
+    color: black;
+    margin: 3vw;
+    display: inline-block;
+}
+
+.paginasMods {
+    background-color: #D2D2D2;
+}
+
+.paginasMods a:hover {
+    color: #257e25;
+}
+
+.paginasMods p {
+    width: 30vw;
+    margin: 2vw;
+    color: rgb(29, 90, 95);
+}
+
+/*  */
+
+.instalarMods h2{
+    font-family: 'Minecraft', sans-serif;
+}
+
+.instalarMods ul {
+    margin: 1px;
+}
+
+
+/* Streamers */
+
+
+.inicioStreamers {
+    width: 60vw;
+    height: 150vw;
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+}
+
+.streamersFamosos img{
+    width: 60vw;
+}
+
+/*  */
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid rgb(18, 167, 38);
+  }
+  
+  thead th:nth-child(1) {
+    width: 30%;
+  }
+  
+  thead th:nth-child(2) {
+    width: 20%;
+  }
+  
+  thead th:nth-child(3) {
+    width: 15%;
+  }
+  
+  thead th:nth-child(4) {
+    width: 35%;
+  }
+  
+  th, td {
+    padding: 20px;
+  }
+
+  /*  */
+
+  .inicioStreamers h1{
+    font-family: 'Minecraft', sans-serif;
+    margin: 1vw;
+  }
+
+  /* Skins */
+
+  .inicioSkins {
+    width: 60vw;
+    height: 150vw;
+    background-color: #EBE9EA;
+    border: 1px solid #D2D2D2;
+    border-radius: 8px 8px 8px 8px;
+  }
+  
+  .tenerSkin h1 {
+    font-family: 'Minecraft', sans-serif;
+    margin: 1vw;
+    text-align: center;
+  }
+  .tenerSkin img{
+    margin: 1vw;
+    width: 57vw;
+  }
+
+  .tenerSkin h2 {
+   font-family: 'Minecraft', sans-serif;
+   margin: 1vw;
+  }
+
+  .tenerSkin p {
+    font-size: 25px;
+    margin: 2vw;
+  }
+  .tenerSkin a {
+    margin: 4vw;
+  }
+
+  .card-block a{
+    text-decoration: none;
+  }

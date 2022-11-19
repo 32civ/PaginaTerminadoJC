@@ -1,0 +1,1030 @@
+/*resolucion para dispositivos muy pequeños*/
+@media(max-width: 374px){
+    .inicio {
+        width: 60vw;
+        height: 750vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    
+    
+    .TukiMinecraft {
+        width: 60vw;
+    }
+    aside {
+        text-align: center;
+        margin: 5px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 30vw;
+        height: 60vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 163vw;
+    }
+    
+    .card {
+        width: 90vw;
+        height: 42vw;
+    }
+
+    .card-text{
+        font-size: 10px;
+        padding:  0px;
+    }
+    .card-header h3{
+        font-size: 7px;
+    }
+
+    /* Mods */
+
+    .inicioMods {
+        width: 60vw;
+        height: 1020vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .amods {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 95vw;
+    }
+    
+    .amods a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .amods a:hover {
+        color: #257e25;
+    }
+
+    #minecraftmods {
+        width: 40vw;
+    }
+
+    #curse {
+        width: 20vw;
+    }
+
+    #zone {
+        width: 20vw;
+    }
+
+    /* skin */
+
+    .inicioSkins {
+        width: 60vw;
+        height: 950vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+      }
+
+    iframe {
+        width: 30vw;
+    }
+
+    /* streamers */
+
+    .inicioStreamers {
+        width: 60vw;
+        height: 500vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .astrim {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 75vw;
+    }
+    
+    .astrim a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .astrim a:hover {
+        color: #257e25;
+    }
+
+    #comicSoon {
+        margin-top: 5vw;
+        width: 60vw;
+    }
+
+
+}
+
+
+@media(min-width: 375px) and (max-width: 424px){
+    .inicio {
+        width: 60vw;
+        height: 630vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    
+    
+    .TukiMinecraft {
+        width: 60vw;
+    }
+    aside {
+        text-align: center;
+        margin: 5px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 30vw;
+        height: 42vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 163vw;
+    }
+    
+    .card {
+        width: 90vw;
+        height: 42vw;
+    }
+
+    .card-text{
+        font-size: 10px;
+        padding:  0px;
+    }
+    .card-header h3{
+        font-size: 7px;
+    }
+
+    /* Mods */
+
+    .inicioMods {
+        width: 60vw;
+        height: 840vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .amods {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 81vw;
+    }
+    
+    .amods a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .amods a:hover {
+        color: #257e25;
+    }
+
+    #minecraftmods {
+        width: 40vw;
+    }
+
+    #curse {
+        width: 20vw;
+    }
+
+    #zone {
+        width: 20vw;
+    }
+
+    /* skin */
+
+    .inicioSkins {
+        width: 60vw;
+        height: 800vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+      }
+
+    iframe {
+        width: 30vw;
+    }
+
+    .askins {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 61vw;
+    }
+    
+    .askins a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .akins a:hover {
+        color: #257e25;
+    }
+
+    /* streamers */
+
+    .inicioStreamers {
+        width: 60vw;
+        height: 500vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .astrim {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 75vw;
+    }
+    
+    .astrim a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .astrim a:hover {
+        color: #257e25;
+    }
+
+    #comicSoon {
+        margin-top: 5vw;
+        width: 60vw;
+    }
+
+}
+
+@media(min-width: 425px) and (max-width: 575px){
+    .inicio {
+        width: 60vw;
+        height: 530vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    
+    
+    .TukiMinecraft {
+        width: 60vw;
+    }
+    aside {
+        text-align: center;
+        margin: 5px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 30vw;
+        height: 33vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 163vw;
+    }
+    
+    .card {
+        width: 90vw;
+        height: 42vw;
+    }
+
+    .card-text{
+        font-size: 10px;
+        padding:  0px;
+    }
+    .card-header h3{
+        font-size: 7px;
+    }
+
+    /* Mods */
+
+    .inicioMods {
+        width: 60vw;
+        height: 720vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .amods {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 80vw;
+    }
+    
+    .amods a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .amods a:hover {
+        color: #257e25;
+    }
+
+    #minecraftmods {
+        width: 40vw;
+    }
+
+    #curse {
+        width: 20vw;
+    }
+
+    #zone {
+        width: 20vw;
+    }
+
+    /* skin */
+
+    .inicioSkins {
+        width: 60vw;
+        height: 700vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+      }
+
+    iframe {
+        width: 30vw;
+    }
+
+    .askins {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 55vw;
+    }
+    
+    .askins a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .akins a:hover {
+        color: #257e25;
+    }
+
+    /* streamers */
+
+    .inicioStreamers {
+        width: 60vw;
+        height: 400vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .astrim {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 60vw;
+    }
+    
+    .astrim a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .astrim a:hover {
+        color: #257e25;
+    }
+
+    #comicSoon {
+        margin-top: 5vw;
+        width: 60vw;
+    }
+
+}
+
+/*resolucion para dispositivos pequeños*/
+@media(min-width: 576px) and (max-width: 767px){
+    .inicio {
+        width: 54vw;
+        height: 400vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .TukiMinecraft {
+        width: 10px;
+    }
+    
+    
+    .TukiMinecraft {
+        width: 50vw;
+    }
+
+    aside {
+        text-align: center;
+        margin: 5px;
+        position:sticky;
+        top: 0;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 20vw;
+        height: 30vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 163vw;
+    }
+    
+    .card {
+        width: 90vw;
+        height: 42vw;
+    }
+
+    .card-text{
+        font-size: 10px;
+        padding:  0px;
+    }
+    .card-header h3{
+        font-size: 7px;
+    }
+    /* Mods */
+
+    .inicioMods {
+        width: 60vw;
+        height: 470vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .amods {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 50vw;
+    }
+    
+    .amods a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .amods a:hover {
+        color: #257e25;
+    }
+
+    #minecraftmods {
+        width: 40vw;
+    }
+
+    #curse {
+        width: 20vw;
+    }
+
+    #zone {
+        width: 20vw;
+    }
+    
+}
+
+/*resolucion para dispositivos como tablets */
+@media(min-width: 768px) and (max-width: 991px){
+    .inicio {
+        width: 54vw;
+        height: 230vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .TukiMinecraft {
+        width: 10px;
+    }
+    
+    
+    .TukiMinecraft {
+        width: 50vw;
+    }
+    
+    aside {
+        text-align: center;
+        margin: 5px;
+        position:sticky;
+        top: 0;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 15vw;
+        height: 29vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 93vw;
+    }
+    
+    .card {
+        width: 90vw;
+        height: 77vw;
+    }
+
+    .card-text{
+        font-size: 15px;
+        padding:  0px;
+    }
+    .card-header h3{
+        font-size: 7px;
+    }
+
+    /* Mods */
+
+    .inicioMods {
+        width: 60vw;
+        height: 310vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .amods {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 35vw;
+    }
+    
+    .amods a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .amods a:hover {
+        color: #257e25;
+    }
+
+    #minecraftmods {
+        width: 40vw;
+    }
+
+    #curse {
+        width: 20vw;
+    }
+
+    #zone {
+        width: 20vw;
+    }
+    /* skin */
+
+    .inicioSkins {
+        width: 60vw;
+        height: 400vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+      }
+
+    iframe {
+        width: 30vw;
+    }
+
+    .askins {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 25vw;
+    }
+    
+    .askins a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .akins a:hover {
+        color: #257e25;
+    }
+
+    /* streamers */
+
+    .inicioStreamers {
+        width: 60vw;
+        height: 250vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .astrim {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 35vw;
+    }
+    
+    .astrim a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .astrim a:hover {
+        color: #257e25;
+    }
+
+    #comicSoon {
+        margin-top: 5vw;
+        width: 60vw;
+    }
+}
+
+/*resolucion para monitores*/
+@media(min-width: 992px) and (max-width: 1100px){
+    .inicio {
+        width: 54vw;
+        height: 145vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .TukiMinecraft {
+        width: 10px;
+    }
+    
+    
+    .TukiMinecraft {
+        width: 50vw;
+    }
+    
+    aside {
+        text-align: center;
+        margin: 5px;
+        position:sticky;
+        top: 0;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 15vw;
+        height: 21vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 53vw;
+    }
+    
+    .card {
+        width: 90vw;
+        height: 40vw;
+    }
+
+    .card-text{
+        font-size: 15px;
+        padding:  0px;
+    }
+    .card-header h3{
+        font-size: 17px;
+    }
+
+    /* Mods */
+
+    .inicioMods {
+        width: 60vw;
+        height: 230vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .amods {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 30vw;
+    }
+    
+    .amods a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .amods a:hover {
+        color: #257e25;
+    }
+
+    #minecraftmods {
+        width: 40vw;
+    }
+
+    #curse {
+        width: 20vw;
+    }
+
+    #zone {
+        width: 20vw;
+    }
+
+    /* skin */
+
+    .inicioSkins {
+        width: 60vw;
+        height: 300vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+      }
+
+    iframe {
+        margin: 1vw;
+        width: 29vw;
+    }
+
+    .askins {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 20vw;
+    }
+    
+    .askins a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .akins a:hover {
+        color: #257e25;
+    }
+    /* streamers */
+
+    .inicioStreamers {
+        width: 60vw;
+        height: 160vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    .astrim {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 25vw;
+    }
+    
+    .astrim a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .astrim a:hover {
+        color: #257e25;
+    }
+
+    #comicSoon {
+        margin-top: 5vw;
+        width: 60vw;
+    }
+}
+
+@media(min-width: 1101px) and (max-width: 1500px){
+    .inicio {
+        width: 60vw;
+        height: 100vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+    }
+
+    aside {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 20vw;
+    }
+
+    #postsCarousel {
+        background-color: rgb(201, 191, 191);
+        padding: 2vw;
+        height: 38vw;
+    }
+
+    .card {
+        width: 70vw;
+        height: 28vw;
+    }
+    .card-text{
+        padding:  10px;
+    }
+    /* skin */
+
+    .inicioSkins {
+        width: 60vw;
+        height: 230vw;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+      }
+
+    iframe {
+        width: 30vw;
+    }
+
+    .askins {
+        text-align: center;
+        margin: 10px;
+        position:sticky;
+        top: 25px;
+        background-color: #EBE9EA;
+        border: 1px solid #D2D2D2;
+        border-radius: 8px 8px 8px 8px;
+        float: left;
+        width: 19vw;
+        height: 15vw;
+    }
+    
+    .askins a{
+        font-family: 'Roboto', sans-serif;
+        text-decoration: none;
+        display: block;
+        margin: 3vw;
+        color: black;
+    }
+    
+    .akins a:hover {
+        color: #257e25;
+    }
+
+}
+
